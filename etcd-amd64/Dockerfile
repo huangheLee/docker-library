@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.1.11
-MAINTAINER mritd <mritd@mritd.me>
+FROM gcr.io/google_containers/etcd-amd64:etcd:3.4.3-0
+MAINTAINER lihuanghe <huanghe0351@126.com>
